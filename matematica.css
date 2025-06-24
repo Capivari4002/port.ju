@@ -6,11 +6,11 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f2bd;
+  background-color: #4f74da;
 }
 
 header {
-  background-color: #2c3e50;
+  background-color: #0c1722;
   padding: 20px 40px;
   width: 100%;
 }
@@ -35,7 +35,7 @@ header {
 
 .menu_externo li a,
 .menu_interno li a {
-  color: #ecf0f1;
+  color: #ffffff;
   text-decoration: none;
   font-size: 18px;
   padding: 10px 15px;
@@ -86,7 +86,7 @@ footer {
 .atividades,
 .laboratorio,
 .provas {
-  background-color: #b2cd9c;
+  background-color: #485472;
   border-radius: 12px;
   padding: 2rem;
   margin-bottom: 2rem;
@@ -152,15 +152,15 @@ footer {
 }
 
 .atividades .card {
-  border-left: 4px solid #71c0bb;
+  border-left: 4px solid #000000;
 }
 
 .laboratorio .card {
-  border-left: 4px solid #4e6688;
+  border-left: 4px solid #000000;
 }
 
 .provas .card {
-  border-left: 4px solid #332d56;
+  border-left: 4px solid #000000;
 }
 
 @media (max-width: 768px) {
