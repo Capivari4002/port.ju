@@ -35,7 +35,7 @@ header {
 
 .menu_externo li a,
 .menu_interno li a {
-  color: #144b58;
+  color: #ffffff;
   text-decoration: none;
   font-size: 18px;
   padding: 10px 15px;
@@ -86,7 +86,7 @@ footer {
 .atividades,
 .laboratorio,
 .provas {
-  background-color: #b2cd9c;
+  background-color: #485472;
   border-radius: 12px;
   padding: 2rem;
   margin-bottom: 2rem;
